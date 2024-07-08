@@ -1,0 +1,6 @@
+{
+  "/eggs-cream/page": "app/eggs-cream/page.js",
+  "/eggs-cream/[id]/page": "app/eggs-cream/[id]/page.js",
+  "/posts/page": "app/posts/page.js",
+  "/posts/[id]/page": "app/posts/[id]/page.js"
+}
